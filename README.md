@@ -1,5 +1,5 @@
 
-CSDN博客: https://blog.csdn.net/total0?spm=1030.2200.3001.5343
+CSDN博客: [CSDN博客](https://blog.csdn.net/total0?type=blog)
 <!-- - 👋 Hi, I’m @usbcsusb
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
